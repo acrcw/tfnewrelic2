@@ -1,5 +1,5 @@
 
-# policy created on using count & for_each
+# policy created using count & for_each
 
 ![Alt text](/screenshots/1.png?raw=true "alert condition")
 
